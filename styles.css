@@ -1,0 +1,8 @@
+body{
+    background:#111827;
+}
+
+.basket{
+    display: flex;
+    justify-content: space-evenly;
+}
